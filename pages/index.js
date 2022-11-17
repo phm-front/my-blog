@@ -1,4 +1,4 @@
-import { IndexPageWrapper } from '../styles/index';
+import { IndexPageWrapper } from '@/styles/index';
 
 export default function Home() {
   return (
